@@ -11,18 +11,18 @@ AtliQ Hardware is growing rapidly in the recent years, and they have decided to 
 -DAX studio (for optimizing the report)
 
 # PowerBI techniques Learnt
-Creating calculated columns
-creating measure using DAX language
-Data modeling
-Using Bookmarks to switch between two visuals
-Page navigation with buttons
-Using divide function to prevent zero division errors
-creating date table using m language
-Dynamic titles based on the applied filters
-Using KPI indicators
-Conditional formatting the values in visuals using icons or background color
-Data validation techniques
-PowerBi services
+-Creating calculated columns
+-creating measure using DAX language
+-Data modeling
+-Using Bookmarks to switch between two visuals
+-Page navigation with buttons
+-Using divide function to prevent zero division errors
+-creating date table using m language
+-Dynamic titles based on the applied filters
+-Using KPI indicators
+-Conditional formatting the values in visuals using icons or background color
+-Data validation techniques
+-PowerBi services
 Publishing reports to PowerBi services
 Setting up personal gateway to set up the auto refresh of data
 PowerBi App creation
