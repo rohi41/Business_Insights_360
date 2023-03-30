@@ -51,7 +51,12 @@ AtliQ Hardware is growing rapidly in the recent years, and they have decided to 
 As the database is MySQL in this project, we need to import the datasets from Mysql database to PowerBi by providing the Database access credential
 
 # Data Modelling
--Data modeling plays a vital role and is considered as the basement of report. All the visuals will be build upon the data model.  
+-Data modeling plays a vital role and is considered as the basement of report. All the visuals will be build upon the data model.
+
 -Poor data modeling affects the over all performance of the report.  
+
 -In this project, we have followed Snowfall data modeling method.
+
+![image](https://user-images.githubusercontent.com/101571254/228791727-7dbc67e5-3559-478d-8693-321248b4df42.png)
+
 
