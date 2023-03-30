@@ -56,8 +56,8 @@ Dimension table : It will have the static data like details of customer and prod
 Fact table : It will have the data about the transactions
 
 gdb041:
-dim_customer
-27 distinct markets (ex India, USA, spain)
+    -dim_customer 
+  27 distinct markets (ex India, USA, spain)
 75 distinct customers thorough out the market
 2 types of platforms
 Brick & Motors - Physical/offline store
